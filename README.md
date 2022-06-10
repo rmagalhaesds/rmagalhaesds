@@ -11,7 +11,7 @@
   <img align="center" alt="Java" width "50" height="50" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Kotlin" width "50" height="50" src="https://img.icons8.com/color/344/kotlin.png">
   <img align="center" alt="Sql" width "50" height="50" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
-  <img align="center" alt="Firebase" src="https://img.icons8.com/color/344/firebase.png">
+  <img align="center" alt="Firebase" width "50" height="50" src="https://img.icons8.com/color/344/firebase.png">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   
  

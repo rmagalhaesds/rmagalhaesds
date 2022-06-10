@@ -15,7 +15,7 @@
   <img align="center" alt="Git" width "50" height="50" src="https://img.icons8.com/color/344/git.png">
   <img align="center" alt="Sql" width "50" height="50" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
   
-  <img align="center" alt="Spring" width "50" height="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
+  <img align="center" alt="Spring" width "50" height="50" src="https://github.com/devicons/devicon/issues/435"/>
   
  
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -8,21 +8,7 @@
 ## Technologies I've been learning!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kotlin" width "50" height="50" src="https://img.icons8.com/color/344/kotlin.png"/>
   <img align="center" alt="Java" width "50" height="50" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
-  <img align="center" alt="Android" "50" height="50" src="https://img.icons8.com/fluency/344/android-os.png"/>
-  <img align="center" alt="Firebase" width "50" height="50" src="https://img.icons8.com/color/344/firebase.png"/>
-  <img align="center" alt="Xml" width "50" height="50" src="https://img.icons8.com/external-others-iconmarket/344/external-xml-file-types-others-iconmarket.png"/>
-  <img align="center" alt="Sql" width "50" height="50" src="https://img.icons8.com/stickers/344/search-database.png"/>
-  <img align="center" alt="Git" width "50" height="50" src="https://img.icons8.com/color/344/git.png"/>
-  
-  
-
-  
- 
-  
-  
-  
-  
+  <img align="center" alt="Kotlin" width "50" height="50" src="https://img.icons8.com/color/344/kotlin.png"/>
 
 </div>
